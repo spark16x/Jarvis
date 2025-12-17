@@ -4,7 +4,7 @@
 node_modules/
 
 # Expo
-.expo/
+
 dist/
 web-build/
 expo-env.d.ts
@@ -38,6 +38,4 @@ yarn-error.*
 
 app-example
 
-# generated native folders
-/ios
-/android
+# generated n
