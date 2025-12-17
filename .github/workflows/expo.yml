@@ -1,4 +1,4 @@
-name: Expo Preview (EAS)
+name: Expo Preview (EAS Update)
 
 on:
   push:
@@ -24,4 +24,4 @@ jobs:
         run: npm install
 
       - name: Publish preview update
-        run: npx eas update --branch preview --message "Auto preview"
+        run: npx eas update --branch preview --message "Preview update from GitHub Actions"
