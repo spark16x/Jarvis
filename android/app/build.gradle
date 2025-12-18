@@ -180,3 +180,6 @@ dependencies {
         implementation jscFlavor
     }
 }
+
+
+applicationId "com.yourcompany.yourapp"
