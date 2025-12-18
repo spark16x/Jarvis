@@ -182,4 +182,4 @@ dependencies {
 }
 
 
-applicationId "com.yourcompany.yourapp"
+applicationId 'com.pratham.jarvis'
