@@ -11,7 +11,7 @@ Expo officially killed it 😬
 Now it’s replaced by **EAS Update**
 
 So this line:
-
+ 
 ```bash
 expo publish
 ```
